@@ -1,6 +1,4 @@
 
-
-
 # crete data frame 
 df <- data.frame(
     fruit = c("Apple", "Banana", "Grapes"),
