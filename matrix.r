@@ -81,11 +81,5 @@ matrix_3x3 <- matrix(1:9, nrow = 3, ncol = 3)
 matrix_3x3[2, ] <- c(10, 11, 12)
 
 print("Modified Matrix:")
-print(matrix_3x3)
-
-
-
-
-
-
+print(matrix_3x3),
 
